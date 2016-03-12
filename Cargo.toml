@@ -28,9 +28,9 @@ vec_map = "*"
 bitflags = "*"
 
 [dependencies.nalgebra]
-nalgebra = "*"
+version = "*"
 optional = true
 
 [dependencies.cgmath]
-cgmath = "*"
+version = "*"
 optional = true
